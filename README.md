@@ -1,16 +1,11 @@
-## Hi there 👋
+<p align="center">
+<br>
+  <img src="https://c.tenor.com/5sSfXPzbWd8AAAAd/cat-sneaking.gif" height=100px width=150px>
+  <samp>
+    <br><br>
+    Hello, Welcome to my GitHub 🐱<br>
+    I'm Gahyeon Yun from South Korea. <br>
+    I develop something as a hobby for my personal use. <br><br> 
+    Contact me on <a href="mailto:soiyosauce@gmail.com">Send mail</a>
+  </samp>
 
-<!--
-**yungahyeon/yungahyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
